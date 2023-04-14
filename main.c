@@ -1,3 +1,4 @@
+//code credit to Vinayak
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -182,3 +183,4 @@ int main(){
 
     return 0;
 }
+//code credit to Vinayak
